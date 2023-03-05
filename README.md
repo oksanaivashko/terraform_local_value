@@ -1,3 +1,5 @@
+![locals_1](https://user-images.githubusercontent.com/108756145/222962322-4683f646-dd55-4453-8e70-2ec96d6fe683.jpg)
+
 # Terraform Local Value
 
 What is Local Values?
